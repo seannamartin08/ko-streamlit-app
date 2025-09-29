@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+yfinance
+plotly
+scikit-learn
+finta
+backtesting
