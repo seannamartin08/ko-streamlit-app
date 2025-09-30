@@ -5,11 +5,17 @@ This project is an interactive Streamlit web application that analyzes and visua
 🔹 Features
 
 ✅ Live stock data: Fetches Coca-Cola’s latest price data from Yahoo Finance.
+
 ✅ Interactive charts: Visualize price movements, moving averages, and trends with Plotly.
+
 ✅ Machine learning predictions: Uses a trained Random Forest model (rf_ko_model.pkl) to predict Coca-Cola’s stock closing price.
+
 ✅ Custom file upload: Option to upload your own historical stock dataset (.csv) for analysis.
+
 ✅ Technical indicators: Built-in calculations like 20-day and 50-day moving averages (MA20, MA50).
+
 ✅ Streamlit app: User-friendly interface accessible via browser.
+
 
 🔹 Tech Stack
 
