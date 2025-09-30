@@ -3,7 +3,7 @@
 This project is an interactive Streamlit web application that analyzes and visualizes the stock performance of Coca-Cola Company (ticker: KO). It combines historical stock data, technical indicators, and machine learning predictions into one easy-to-use dashboard.
 
 
-🔹 Features
+# 🔹 Features
 
 ✅ Live stock data: Fetches Coca-Cola’s latest price data from Yahoo Finance.
 
