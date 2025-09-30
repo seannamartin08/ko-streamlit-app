@@ -1,4 +1,4 @@
-#📊 Coca-Cola (KO) Stock Analysis & Prediction App
+# 📊 Coca-Cola (KO) Stock Analysis & Prediction App
 
 This project is an interactive Streamlit web application that analyzes and visualizes the stock performance of Coca-Cola Company (ticker: KO). It combines historical stock data, technical indicators, and machine learning predictions into one easy-to-use dashboard.
 
@@ -18,7 +18,7 @@ This project is an interactive Streamlit web application that analyzes and visua
 ✅ Streamlit app: User-friendly interface accessible via browser.
 
 
-#🔹 Tech Stack
+# 🔹 Tech Stack
 
 .Python 🐍
 
@@ -35,7 +35,7 @@ This project is an interactive Streamlit web application that analyzes and visua
 . Joblib (model persistence)
 
 
-#🔹 Project Workflow
+# 🔹 Project Workflow
 
 1) Data Collection
 
