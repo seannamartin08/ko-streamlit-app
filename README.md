@@ -2,6 +2,7 @@
 
 This project is an interactive Streamlit web application that analyzes and visualizes the stock performance of Coca-Cola Company (ticker: KO). It combines historical stock data, technical indicators, and machine learning predictions into one easy-to-use dashboard.
 
+
 🔹 Features
 
 ✅ Live stock data: Fetches Coca-Cola’s latest price data from Yahoo Finance.
@@ -19,45 +20,46 @@ This project is an interactive Streamlit web application that analyzes and visua
 
 🔹 Tech Stack
 
-Python 🐍
+# Python 🐍
 
-Streamlit (web app framework)
+# Streamlit (web app framework)
 
-Pandas, NumPy (data analysis)
+# Pandas, NumPy (data analysis)
 
-Plotly (interactive visualizations)
+# Plotly (interactive visualizations)
 
-scikit-learn (machine learning)
+# scikit-learn (machine learning)
 
-yfinance (real-time stock data)
+# yfinance (real-time stock data)
 
-Joblib (model persistence)
+# Joblib (model persistence)
+
 
 🔹 Project Workflow
 
-Data Collection
+1) Data Collection
 
 Fetch Coca-Cola stock history from Yahoo Finance (yfinance)
 
 Optionally upload custom CSV data
 
-Feature Engineering
+2) Feature Engineering
 
 Compute moving averages (MA20, MA50)
 
 Prepare features for machine learning
 
-Model
+3) Model
 
 Pre-trained Random Forest model (rf_ko_model.pkl) predicts closing price
 
-Visualization
+4) Visualization
 
 Interactive Plotly charts (candlestick/line + moving averages)
 
 Metrics display for model predictions
 
-Deployment
+5) Deployment
 
 Runs locally with Streamlit
 
